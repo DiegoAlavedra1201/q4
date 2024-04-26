@@ -1,8 +1,8 @@
 # q4
-Q4 project, learning the coding language Go
+<h1>Q4 project, learning the coding language Go</h1>
 
 
-plan:
+<h2>plan:</h2>
 
 
 step 1) learn basic syntax through a codecademy for 2 weeks and develop basic skills
@@ -17,7 +17,7 @@ step 3) final test to evaluate my progress with the language during the last 2 w
 
 
 
-Process:
+<h2>Process:</h2>
 
 
 Class 1) 1 lesson on codecademy of the basics: learned how to print out messages, how to call a function, and how to import certain things like fmt which is used for function making
