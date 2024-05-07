@@ -30,3 +30,7 @@ class3) fininshed lesson 2 and starting lesson 3, im 40% into the course.
 
 
 Class4) finished lesson 3 working on the project that goes with it, 46% into the course goal before end of today is to finish lesson 4
+
+class5) finished conidtionls lesson and started the test and project.
+
+class 6) made progress on the project and plan to finish the project, and start the final set of lessons.
