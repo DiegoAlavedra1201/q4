@@ -40,3 +40,5 @@ Class 7) finished first set of lessons and got 100% on the quiz that's paired wi
 class 8) finished first project of final lesson
 
 class 9) missed (AP test)
+
+class 10) watched presentations and worked on the last lesson of the codecademy golang course
