@@ -34,3 +34,9 @@ Class4) finished lesson 3 working on the project that goes with it, 46% into the
 class5) finished conidtionls lesson and started the test and project.
 
 class 6) made progress on the project and plan to finish the project, and start the final set of lessons.
+
+Class 7) finished first set of lessons and got 100% on the quiz that's paired with it
+
+class 8) finished first project of final lesson
+
+class 9) missed (AP test)
