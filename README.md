@@ -46,3 +46,5 @@ class 10) watched presentations and worked on the last lesson of the codecademy 
 class 11) finished the codecademy and presented after school.
 
 class12) I started the second course about arrays maps structs and loops. I finished the first lesson on loops and the second lesson on arrays. The rest of the features of the couse (quiz and project) are locked behind a paywall.
+
+class 13) started the third lesson of the go extension course and reivisitng the time translation cases assignment.
